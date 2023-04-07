@@ -1,0 +1,25 @@
+{
+   "title":"[rca] How to Spend Your Extended Break",
+   "description":"",
+   "author":"rca",
+   "artist":"rca",
+   "cover":"https://i.imgur.com/BdrtzGT.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EsfMNoA"
+         },
+         "last_updated":1624606143,
+         "title":"How to Spend Your Extended Break",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/oSOX11R"
+         },
+         "last_updated":1624606143,
+         "title":"How to Send Someone off on Their School Life",
+         "volume":"2"
+      }
+   }
+}
