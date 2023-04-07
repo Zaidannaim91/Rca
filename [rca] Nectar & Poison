@@ -1,0 +1,25 @@
+{
+   "title":"[rca] Nectar & Poison",
+   "description":"",
+   "author":"rca",
+   "artist":"rca",
+   "cover":"https://i.imgur.com/bpKbzKz.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ULUUKfy"
+         },
+         "last_updated":1624606143,
+         "title":"Nectar & Poison",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mUUyXEy"
+         },
+         "last_updated":1624606143,
+         "title":"Mixed Poison",
+         "volume":"2"
+      }
+   }
+}
